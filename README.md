@@ -27,5 +27,5 @@ Repo Url - https://github.com/rpliszka1987/fantastic-umbrella
 
 ## Video
 
-https://gentle-garden-71350.herokuapp.com/
+https://drive.google.com/file/d/1RdVYqaK8vw2o-PWHhAnBRmGu3Gy5rDyA/view
 
